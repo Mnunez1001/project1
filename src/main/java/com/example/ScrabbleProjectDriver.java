@@ -155,13 +155,13 @@ public class ScrabbleProjectDriver {
         ScrabbleSet standardScrabbleSet = new ScrabbleSet("English");
         ScrabbleSet randomScrabbleSet = new ScrabbleSet(true);
 
-        // scanneralex object for user input
+        // scanner object for user input
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("\nWelcome to the Scrabble Score Calculator!");
         System.out.println("Type 'exit' to quit the program.");
 
-        // Start the loop
+        // while loop to play the game until the user types "exit"
         while (true) {
             System.out.print("\nEnter a word to calculate its Scrabble score: ");
             String word = scanner.nextLine().trim();
