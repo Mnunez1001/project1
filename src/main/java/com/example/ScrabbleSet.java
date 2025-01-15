@@ -160,6 +160,7 @@ public class ScrabbleSet {
     }
 
     String footer = "-----------------------------------\n";
+    //this is the only line that I added but not sure how it works %100.
     footer += "Total Tiles: " + tileCount.stream().mapToInt(Integer::intValue).sum() + "\n";
 
     return header + body + footer;
@@ -185,7 +186,13 @@ public int calculateWordScore(String word) {
     // Iterate through each character in the word
     for (char c : word.toCharArray()) {
         // Find the index of the letter in the Scrabble set
-        int index = letters[c];
+        int index = -1;
+        for (int i = 0; i < letters.length; i++){
+            if(letters[i] == c){
+                index = i;
+                break;
+            }
+        }
 
         if (index == -1 || tempTileCounts.get(index) <= 0) {
             // Letter not found or not enough tiles available
