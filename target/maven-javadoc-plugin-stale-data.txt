@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/alexp/Hithub folder/Second Semester Pojects/project1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/alexp/Hithub folder/Second Semester Pojects/project1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'project1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'project1 1.0-SNAPSHOT API'
+com.example
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\src\main\java = 1736696570623
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\allclasses-index.html = 1738029874183
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\allpackages-index.html = 1738029874188
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\copy.svg = 1738029874285
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\element-list = 1738029874052
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\help-doc.html = 1738029874267
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\index-all.html = 1738029874243
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\index.html = 1738029874253
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\link.svg = 1738029874297
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\member-search-index.js = 1738029874201
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\module-search-index.js = 1738029874190
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\overview-tree.html = 1738029874146
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\package-search-index.js = 1738029874193
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\script.js = 1738029874281
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\search-page.js = 1738029874309
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\search.html = 1738029874249
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\search.js = 1738029874304
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\stylesheet.css = 1738029874275
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\tag-search-index.js = 1738029874204
+C:\Users\alexp\Hithub folder\Second Semester Pojects\project1\target\reports\apidocs\type-search-index.js = 1738029874195

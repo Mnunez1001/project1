@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example","l":"ScrabbleProjectDriver"},{"p":"com.example","l":"ScrabbleSet"},{"p":"com.example","l":"Tile"},{"p":"com.example","l":"Word"}];updateSearchResults();
