@@ -1,0 +1,258 @@
+Scrabble Set:
+ Letter     Point Value  Count
+-----------------------------------
+A          1            9
+B          3            2
+C          3            2
+D          2            4
+E          1            12
+F          4            2
+G          2            3
+H          4            2
+I          1            9
+J          8            1
+K          5            1
+L          1            4
+M          3            2
+N          1            6
+O          1            8
+P          3            2
+Q          10           1
+R          1            6
+S          1            4
+T          1            6
+U          1            4
+V          4            2
+W          4            2
+X          8            1
+Y          4            2
+Z          10           1
+           0            2
+-----------------------------------
+Total Tiles: 100
+
+Scrabble Set:
+ Letter     Point Value  Count
+-----------------------------------
+A          1            5
+B          3            6
+C          3            6
+D          2            3
+E          1            3
+F          4            3
+G          2            3
+H          4            6
+I          1            2
+J          8            1
+K          5            2
+L          1            5
+M          3            4
+N          1            2
+O          1            6
+P          3            6
+Q          10           4
+R          1            3
+S          1            3
+T          1            5
+U          1            3
+V          4            4
+W          4            3
+X          8            5
+Y          4            1
+Z          10           4
+           0            2
+-----------------------------------
+Total Tiles: 100
+
+The word is: HELLO The score is: 8
+The word is: SCRABBLE The score is: 14
+The word is: HYDROGEN The score is: 16
+The word is: OXYGEN The score is: 17
+The word is: WATER The score is: 8
+The word is: ELEMENT The score is: 9
+The word is: JAZZ The score is: -1
+The word is: QUIZ The score is: 22
+The word is: ZEBRA The score is: 16
+The word is: XENON The score is: 12
+The word is: HELLO123 The score is: -1
+The word is: $CR@BBLE The score is: -1
+The word is:  The score is: -1
+The word is: TOOOO The score is: 5
+The word is: WATER! The score is: -1
+The word is: A The score is: 1
+The word is: Z The score is: 10
+The word is: BLANK The score is: 11
+The word is: NONEXISTENT The score is: 18
+The word is: FFFFFF The score is: -1
+The word is: DOG The score is: 5
+The word is: CAT The score is: 5
+The word is: PYTHON The score is: 14
+The word is: JAVA The score is: 14
+The word is: C++ The score is: -1
+
+File read successfully. Total words: 75343
+Highest Scoring Word: exquisitely (Score: 30)
+Shortest Invalid Word: dizzy
+
+First 10 words from the file:
+Letter
+1
+_To
+Mrs
+Saville
+England
+_
+St
+Petersburgh
+Dec
+
+File read successfully. Total words: 75343
+Highest Scoring Word: exquisitely (Score: 30)
+Shortest Invalid Word: mummy
+
+Welcome to the Scrabble Score Calculator!
+Type 'exit' to quit the program.
+
+Enter a word to calculate its Scrabble score: alex
+The word 'alex' has 11 points in the standard Scrabble set.
+The word 'alex' has 11 points in the randomly generated Scrabble set.
+
+Enter a word to calculate its Scrabble score: rob
+The word 'rob' has 5 points in the standard Scrabble set.
+The word 'rob' has 5 points in the randomly generated Scrabble set.
+
+Enter a word to calculate its Scrabble score: exit
+Exiting the program.
+
+word1 is Word: HELLO, Score: 8
+word2 is Word: WORLD, Score: 9
+word3 is Word: HELLO, Score: 8
+word4 is Word: WATER, Score: 8
+
+Comparing word1 and word2: -1
+Comparing word1 and word3: 0
+Comparing word2 and word1: 1
+Comparing word1 and word4: -15
+
+Random word 1: Word: YKOEL, Score: 12
+Random word 2: Word: WHXRNOFPFJ, Score: 38
+
+10 random words:
+Word: YHADO, Score: 12
+Word: AZ, Score: 11
+Word: MQJ, Score: 21
+Word: NDXYGTQHYM, Score: 39
+Word: KUWUO, Score: 12
+Word: WWNLQLJOWGCX, Score: -1
+Word: NPLLKFY, Score: 19
+Word: LWWUIUIYRTTMM, Score: 26
+Word: PBJMDRLFPYBU, Score: 36
+Word: UCWOBXPDZIBZ, Score: -1                         Project 3 Stuff Starts here 
+
+How many random words do you want to generate? 10
+
+Generated random words and their scores:
+Word: EVAIAJWMJQZW, Score: -1
+Word: AKMLFGSSGQA, Score: 31
+Word: SQNZZKXQNAO, Score: -1
+Word: AAYYKHMLNS, Score: 25
+Word: FDDLM, Score: 12
+Word: DBKPL, Score: 14
+Word: DW, Score: 6
+Word: BKIMJLJJKOIQT, Score: -1
+Word: BAKKUW, Score: -1
+Word: NC, Score: 4
+
+Unsorted small array:
+Word: OASXAIVOR, Score: 19
+Word: XYQTD, Score: 25
+Word: LOCRMCGICMNRAT, Score: -1
+Word: AYNJ, Score: 14
+Word: KW, Score: 9
+Word: HKFOGZNEWCQAQO, Score: -1
+Word: OJKMT, Score: 18
+Word: BSMMDUM, Score: -1
+Word: XCOXMQJABYGD, Score: -1
+Word: GLOHNNB, Score: 13
+
+Bubble Sorted Result:
+Word: BSMMDUM, Score: -1
+Word: HKFOGZNEWCQAQO, Score: -1
+Word: LOCRMCGICMNRAT, Score: -1
+Word: XCOXMQJABYGD, Score: -1
+Word: KW, Score: 9
+Word: GLOHNNB, Score: 13
+Word: AYNJ, Score: 14
+Word: OJKMT, Score: 18
+Word: OASXAIVOR, Score: 19
+Word: XYQTD, Score: 25
+
+Merge Sorted Result:
+Word: BSMMDUM, Score: -1
+Word: HKFOGZNEWCQAQO, Score: -1
+Word: LOCRMCGICMNRAT, Score: -1
+Word: XCOXMQJABYGD, Score: -1
+Word: KW, Score: 9
+Word: GLOHNNB, Score: 13
+Word: AYNJ, Score: 14
+Word: OJKMT, Score: 18
+Word: OASXAIVOR, Score: 19
+Word: XYQTD, Score: 25
+
+Performance Sorting Test:
+Bubble Sort Time for 1000 words: 442846100 ns
+Merge Sort Time for 1000 words: 6741800 ns
+Bubble Sort Time for 5000 words: 9874333600 ns
+Merge Sort Time for 5000 words: 48580600 ns
+Bubble Sort Time for 10000 words: 38965837800 ns
+Merge Sort Time for 10000 words: 94793900 ns
+
+Search Test:
+
+Testing with list size: 1000
+
+Search for an item that exists:
+Sequential Search: Found Word: NOYGW, Score: 12 at index 297 in 52100 ns.
+Binary Search: Found Word: NOYGW, Score: 12 at index 297 in 51100 ns.
+
+Search for an item that does not exist:
+Sequential Search: Word: zzzzz, Score: -1 not found in 107700 ns.
+Binary Search: Word: zzzzz, Score: -1 not found in 23000 ns.
+
+Testing with list size: 5000
+
+Search for an item that exists:
+Sequential Search: Found Word: NEXBU, Score: 14 at index 2254 in 384500 ns.
+Binary Search: Found Word: NEXBU, Score: 14 at index 2254 in 15700 ns.
+
+Search for an item that does not exist:
+Sequential Search: Word: zzzzz, Score: -1 not found in 692100 ns.
+Binary Search: Word: zzzzz, Score: -1 not found in 25500 ns.
+
+Testing with list size: 10000
+
+Search for an item that exists:
+Sequential Search: Found Word: BDFMV, Score: 16 at index 5286 in 507800 ns.
+Binary Search: Found Word: BDFMV, Score: 16 at index 5286 in 18000 ns.
+
+Search for an item that does not exist:
+Sequential Search: Word: zzzzz, Score: -1 not found in 960400 ns.
+Binary Search: Word: zzzzz, Score: -1 not found in 24100 ns.
+
+Testing Java's Arrays.sort and Arrays.binarySearch:
+
+Testing with array size: 1000
+Arrays.sort time: 6361200 ns
+Arrays.binarySearch (found): Found Word: GKJZXLITSCAKQ, Score: -1 at index 46 in 62800 ns
+Arrays.binarySearch (not found): Target not found in 51800 ns
+
+Testing with array size: 5000
+Arrays.sort time: 45518400 ns
+Arrays.binarySearch (found): Found Word: KYEXYA, Score: 23 at index 3271 in 24600 ns
+Arrays.binarySearch (not found): Target not found in 18200 ns
+
+Testing with array size: 10000
+Arrays.sort time: 97625600 ns
+Arrays.binarySearch (found): Found Word: WLQOBQBYIZRYSO, Score: -1 at index 1778 in 29400 ns
+Arrays.binarySearch (not found): Target not found in 20100 ns
+PS C:\Users\alexp\Hithub folder\Second Semester Pojects\project1>
