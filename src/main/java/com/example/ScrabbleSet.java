@@ -15,7 +15,7 @@ import java.util.Random;
  * 
  * @author Miguel Alexander Nunez Palomares
  * @version 1.0
- * @see java.util.ArrayList, java.util.Random
+ * @see java.util.ArrayList, java.util.Random.
  */
 
 public class ScrabbleSet {
